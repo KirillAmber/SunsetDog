@@ -1,0 +1,55 @@
+
+backgrounds_items.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clouds
+  rotate: false
+  xy: 2, 816
+  size: 817, 95
+  orig: 817, 95
+  offset: 0, 0
+  index: -1
+glare1
+  rotate: false
+  xy: 2, 471
+  size: 278, 240
+  orig: 278, 240
+  offset: 0, 0
+  index: 2
+glare1
+  rotate: false
+  xy: 2, 2
+  size: 255, 235
+  orig: 255, 235
+  offset: 0, 0
+  index: -1
+glare2
+  rotate: false
+  xy: 2, 239
+  size: 269, 230
+  orig: 269, 230
+  offset: 0, 0
+  index: -1
+glare3
+  rotate: false
+  xy: 564, 602
+  size: 271, 212
+  orig: 271, 212
+  offset: 0, 0
+  index: -1
+glare4
+  rotate: false
+  xy: 282, 490
+  size: 274, 221
+  orig: 274, 221
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 2, 713
+  size: 560, 101
+  orig: 560, 101
+  offset: 0, 0
+  index: -1
